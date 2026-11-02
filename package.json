@@ -1,0 +1,18 @@
+{
+  "name": "bot-mas-cuan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^2.32.0",
+    "discord.js": "^14.27.0",
+    "open-graph-scraper": "^6.12.0"
+  }
+}
