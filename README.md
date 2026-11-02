@@ -113,7 +113,7 @@ node index.js
 ## 👤 Author
 
 **Aldi Anugrah**
-* 💼 **Portfolio:** [aldianugrah.com]
-* 🔗 **LinkedIn:** [linkedin.com/in/aanugrah]
+* 💼 **Portfolio:** [aldianugrah.com](https://aldianugrah.com)
+* 🔗 **LinkedIn:** [linkedin.com/in/aanugrah](https://www.linkedin.com/in/aanugrah)
 
 *Built with ❤️ for the AI Trainer & Freelancer Community.*
